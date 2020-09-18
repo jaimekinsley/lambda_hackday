@@ -24,7 +24,12 @@
     "nodemon": "^2.0.4"
   },
   "dependencies": {
+    "aws-sdk": "^2.756.0",
     "chance": "^1.1.7",
-    "dotenv": "^8.2.0"
+    "d3": "^6.1.1",
+    "dotenv": "^8.2.0",
+    "jsdom": "^16.4.0",
+    "node-fetch": "^2.6.1",
+    "sharp": "^0.26.0"
   }
 }
